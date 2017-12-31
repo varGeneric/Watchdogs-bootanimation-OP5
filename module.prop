@@ -1,7 +1,7 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
+id=OP5WD
+name=WatchDogs for OnePlus 5
+version=v1.5
+versionCode=15
+author=Robdyx
+description=WatchDogs bootanimation for OnePlus 5
 minMagisk=1500

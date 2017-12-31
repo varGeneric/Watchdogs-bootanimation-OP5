@@ -1,7 +1,7 @@
 ##########################################################################################
 #
-# Magisk Module Template Config Script
-# by topjohnwu
+# WatchDogs bootanimation for OnePlus 5
+# by Robdyx
 #
 ##########################################################################################
 ##########################################################################################
@@ -40,9 +40,10 @@ LATESTARTSERVICE=false
 # Set what you want to show when installing your mod
 
 print_modname() {
-  ui_print "*******************************"
-  ui_print "     Magisk Module Template    "
-  ui_print "*******************************"
+  ui_print "***********************************"
+  ui_print "  WatchDogs bootanimation for OP5  "
+  ui_print "             by Robdyx             "
+  ui_print "***********************************"
 }
 
 ##########################################################################################
