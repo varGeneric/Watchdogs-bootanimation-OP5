@@ -1,7 +1,7 @@
-id=Watchdogs-bootanimation-OP5
-name=WatchDogs for OnePlus 5
+id=Watchdogs-bootanimation-generic
+name=WatchDogs boot anim
 version=v1.5
 versionCode=15
-author=Robdyx
-description=WatchDogs bootanimation for OnePlus 5
+author=Robdyx, varGeneric
+description=WatchDogs bootanimation forked from Robdyx's OP5 anim
 minMagisk=1500
