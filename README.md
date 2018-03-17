@@ -1,9 +1,9 @@
-### WatchDogs Bootanimation for OnePlus 5
+### WatchDogs Bootanimation for OnePlus 5, sans 1+ branding
 
-For a preview of the bootanimation, please check [this](https://media.giphy.com/media/xULW8leB5jPetkdaYo/giphy.gif)
+Animation was ripped directly from animation_pda_loading_loop_cropped.bik in WD1 files. 
 
 #### V1.5
 - Updated to last Magisk 1500
 - Uploaded to Magisk repo
 
-By Robdyx
+Orignially made by Robdyx
